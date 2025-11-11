@@ -1,0 +1,12 @@
+# Hashes of file build rules.
+72ef413eef6c0018b70bf34815decf0d src/moc_albumMenu.cpp
+ace21d6eb01e3c74137c0c941e39223e src/moc_apiFetch.cpp
+3a08406bf3ae43717cd8787e0b5ac48b src/moc_audiofingerprint.cpp
+cd20b885410c850df8f92e527f1deb5f src/moc_dbManager.cpp
+9ab78e663909ac35207c92d850d880ae src/moc_introMenu.cpp
+56739b1ef9392dad5acc0e98835ad10b src/moc_libScan.cpp
+7732314f52cc068e948e5c3baf213ab3 src/moc_mainMenu.cpp
+09502930d82c91d111a0d5b050054076 src/moc_mainwindow.cpp
+af77aa72574a9a310fc90cdcac25f8c4 src/moc_playback.cpp
+01fb8b73625e412d73852e20588cdbb2 src/moc_recoMenu.cpp
+811ad1ed028682de3c4fa972b5dc55ec src/moc_songMenu.cpp

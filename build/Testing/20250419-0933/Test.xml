@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250419-0933-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.5"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="ratbook.local"
+	OSRelease="15.3.2"
+	OSVersion="24D81"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M3 Pro"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="11"
+	NumberOfPhysicalCPU="11"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="18432"
+	LogicalProcessorsPerPhysical="11"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Apr 19 10:33 BST</StartDateTime>
+		<StartTestTime>1745055223</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 19 10:33 BST</EndDateTime>
+		<EndTestTime>1745055223</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

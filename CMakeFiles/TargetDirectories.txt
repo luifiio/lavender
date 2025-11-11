@@ -1,0 +1,3 @@
+/Users/lui/Desktop/lavender/build/CMakeFiles/lavender.dir
+/Users/lui/Desktop/lavender/build/CMakeFiles/edit_cache.dir
+/Users/lui/Desktop/lavender/build/CMakeFiles/rebuild_cache.dir
